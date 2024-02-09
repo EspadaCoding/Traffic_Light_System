@@ -1,0 +1,17 @@
+D:\Traffic Light System\bin\Debug\net6.0-windows\Traffic Light System.exe
+D:\Traffic Light System\bin\Debug\net6.0-windows\Traffic Light System.deps.json
+D:\Traffic Light System\bin\Debug\net6.0-windows\Traffic Light System.runtimeconfig.json
+D:\Traffic Light System\bin\Debug\net6.0-windows\Traffic Light System.dll
+D:\Traffic Light System\bin\Debug\net6.0-windows\Traffic Light System.pdb
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.csproj.AssemblyReference.cache
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic_Light_System.Form1.resources
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.csproj.GenerateResource.cache
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.AssemblyInfoInputs.cache
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.AssemblyInfo.cs
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.csproj.CoreCompileInputs.cache
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.dll
+D:\Traffic Light System\obj\Debug\net6.0-windows\refint\Traffic Light System.dll
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.pdb
+D:\Traffic Light System\obj\Debug\net6.0-windows\Traffic Light System.genruntimeconfig.cache
+D:\Traffic Light System\obj\Debug\net6.0-windows\ref\Traffic Light System.dll
